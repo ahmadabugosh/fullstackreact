@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import Router from 'next/router';
+import NProgress from 'nprogress';
 import NavStyles from './styles/NavStyles';
 
 const Nav = () => (
